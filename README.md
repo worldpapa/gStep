@@ -15,6 +15,7 @@
 # 성과
 
 ![image](https://github.com/worldpapa/gStep/blob/main/SDSA.png)
+[최우수상.pdf](https://github.com/worldpapa/gStep/files/10131151/default.pdf)
 
 [SDSA The Southampton Data Science Academy](https://cms.pknu.ac.kr/pknusme/view.do?no=13640&idx=483693&view=view&pageIndex=1&sv=&sw=)
 
