@@ -1,4 +1,4 @@
-# SDSA The Southampton Data Science Academy, Fundamentals of Data Science
+# SDSA The Southampton Data Science Academy, Fundamentals of Data Science (Saltlux partner)
 
 2021.01.05 ~ 2021.02.15
 
