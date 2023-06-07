@@ -16,7 +16,10 @@
 
 ![image](https://github.com/worldpapa/gStep/blob/main/SDSA.png)
 
+![image](https://github.com/worldpapa/gStep/assets/89823516/68a5a8c2-8846-46cb-a72b-ca1aadd603fb)
+
 ![최우수상.pdf](https://github.com/worldpapa/gStep/blob/main/최우수상.pdf)
+
 
 [SDSA The Southampton Data Science Academy](https://cms.pknu.ac.kr/pknusme/view.do?no=13640&idx=483693&view=view&pageIndex=1&sv=&sw=)
 
